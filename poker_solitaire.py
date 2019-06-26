@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 from deuces import Card, Deck, Evaluator
 import numpy as np
 from numpy.random import shuffle
